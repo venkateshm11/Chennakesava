@@ -21,12 +21,12 @@
     },
     {
       id: 2,
-      title: "Building Façade & Main Entrance",
+      title: "SRK Nivas — Main Entrance Gate",
       category: "exterior",
       categoryLabel: "Building Exterior",
-      src: "images/gallery/gallery-exterior-1.svg",
-      alt: "Chennakesava Nilaya building façade and entrance in Bellandur",
-      aspectClass: "standard"
+      src: "images/gallery/gallery-exterior-2.jpg",
+      alt: "SRK Nivas main entrance gate with gold signboard, security gate and rental banner in Bellandur",
+      aspectClass: "wide"
     },
     {
       id: 3,
@@ -48,12 +48,30 @@
     },
     {
       id: 5,
-      title: "Architectural Elevation",
-      category: "exterior",
-      categoryLabel: "Building Exterior",
-      src: "images/gallery/gallery-exterior-2.svg",
-      alt: "Architectural elevation perspective of SRK Nivas",
-      aspectClass: "tall"
+      title: "Lift Lobby — Stainless Steel Elevator Doors",
+      category: "common",
+      categoryLabel: "Common Areas",
+      src: "images/gallery/gallery-exterior-1.jpg",
+      alt: "Modern stainless steel passenger lift doors with polished granite wall finish at Chennakesava Nilaya",
+      aspectClass: "standard"
+    },
+    {
+      id: 5.1,
+      title: "Ground Floor Lobby & Power Backup System",
+      category: "common",
+      categoryLabel: "Common Areas",
+      src: "images/gallery/gallery-exterior-3.jpg",
+      alt: "Ground floor lobby area showing Kirloskar power generator, electrical panels, security watchman and staircase",
+      aspectClass: "wide"
+    },
+    {
+      id: 5.2,
+      title: "Covered Parking & Ground Floor Common Area",
+      category: "common",
+      categoryLabel: "Common Areas",
+      src: "images/gallery/gallery-exterior-4.jpg",
+      alt: "Ground floor covered parking with marble flooring, CCTV monitor, lift access and staircase at SRK Nivas",
+      aspectClass: "wide"
     },
     {
       id: 6,

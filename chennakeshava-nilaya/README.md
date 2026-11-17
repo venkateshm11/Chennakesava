@@ -192,3 +192,4 @@ Once your website is deployed to its final domain:
   - **1 RK**: ₹25,000/month (Maintenance separate/unconfirmed, Security Deposit ₹75,000, 11-month agreement, Furnished with Refrigerator, Washing Machine, TV, Two Single Beds).
 - **Facilities**: 24/7 Water Supply, 24/7 Hot Water, Power Backup, Lift Facility, 24/7 CCTV Surveillance, Security Watchman.
 - **Suitability**: Bachelors, Families, and Couples. Electricity separate; internet arranged by tenant.
+
